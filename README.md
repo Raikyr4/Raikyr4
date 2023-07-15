@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiky-prezotto-pereira-sahb-novaes-103108223/)
 [![URI](https://img.shields.io/badge/Beecrowd-yellow?style=for-the-badge)](https://www.beecrowd.com.br/judge/pt/profile/625080)
-[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://www.beecrowd.com.br/judge/pt/profile/625080)
+[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/raiky_r4)
 [![Uva](https://img.shields.io/badge/UVA-online_Juged-red?style=for-the-badge&logo)](https://uhunt.onlinejudge.org/id/1333437)
 
 
