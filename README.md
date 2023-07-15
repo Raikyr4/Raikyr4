@@ -19,7 +19,7 @@
 
 
 
-Apaixonado por tecnologia e desenvlvimento full stack
+Apaixonado por tecnologia e desenvolvimento full stack
 
 <!--### Últimos Projetos:>
 
