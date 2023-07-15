@@ -1,9 +1,15 @@
-## Olá! Eu sou o Raíky P. P. Sahb Novaes 🖐️
+## Olá! Eu sou o Raíky P. P. Sahb Novaes 👋😁
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiky-prezotto-pereira-sahb-novaes-103108223/)
+[![URI](https://img.shields.io/badge/Beecrowd-yellow?style=for-the-badge)](https://www.beecrowd.com.br/judge/pt/profile/625080)
+[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://www.beecrowd.com.br/judge/pt/profile/625080)
+[![Uva](https://img.shields.io/badge/UVA-online_Juged-red?style=for-the-badge&logo)](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)
 
-<!--![Raíky GitHub stats](https://github-readme-stats.vercel.app/api?username=Raikyr4&show_icons=true&theme=dracula&count_private=true)-->
+
+<!---->
 ![Raíky GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Raikyr4&theme=dracula&count_private=true)
+![Raíky GitHub stats](https://github-readme-stats.vercel.app/api?username=Raikyr4&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -20,7 +26,8 @@
 
 
 
-Apaixonado por tecnologia e desenvolvimento full stack
+Apaixonado por tecnologia e desenvolvimento full stack 👾🖥️
+
 
 <!--### Últimos Projetos:>
 
