@@ -9,9 +9,6 @@
 
 <!---->
 
-![Raíky GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Raikyr4&theme=dracula&count_private=true)
-<!--![Raíky GitHub stats](https://github-readme-stats.vercel.app/api?username=Raikyr4&theme=dracula&count_private=true)-->
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
