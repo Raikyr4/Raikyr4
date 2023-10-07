@@ -6,8 +6,7 @@
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/raiky_r4)
 [![Uva](https://img.shields.io/badge/UVA-online_Juged-red?style=for-the-badge&logo)](https://uhunt.onlinejudge.org/id/1333437)
 
-
-<!---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raikyr4&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
