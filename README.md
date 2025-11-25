@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Oi 👋, Eu sou o Raíky! Um apaixonado por tecnologia e desenvolvimento.</h4>
+<h4 align="center">Olá 👋, Eu sou o Raíky! Um apaixonado por tecnologia e desenvolvimento.</h4>
 
 ###
 
