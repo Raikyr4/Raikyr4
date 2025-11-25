@@ -14,9 +14,9 @@
 <details align="center">
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 21 anos, atualmente moro no Brasil. Estou comprometido em continuar aprimorando minhas habilidades e buscando oportunidades para contribuir com equipes que compartilhem meu desejo de excelência e inovação. Busco crescimento profissional e a oportunidade de fazer a diferença em qualquer projeto em que esteja envolvido.
+  - 💬 Tenho 22 anos, atualmente moro no Brasil. Estou comprometido em continuar aprimorando minhas habilidades e buscando oportunidades para contribuir com equipes que compartilhem meu desejo de excelência e inovação. Busco crescimento profissional e a oportunidade de fazer a diferença em qualquer projeto em que esteja envolvido.
 
-  - ⚡ Tenho experiência com SQLServer, C#, .NET, ASP .NET, Azure DevOps, Node, JavaScript, HTML/CSS, React, Angular e Git. Também tenho uma carreira de 2 anos na área de desenvolvimento Full Satck, o que me ajudou a desenvolver habilidades importantes como criatividade, comunicação, capacidade analítica, gerenciamento de times e gestão de projetos.
+  - ⚡ Tenho experiência com SQLServer, C#, .NET, ASP .NET, Azure DevOps, Node, JavaScript, HTML/CSS, React, Angular e Git. Também tenho uma carreira de 4 anos na área de desenvolvimento Full Satck, o que me ajudou a desenvolver habilidades importantes como criatividade, comunicação, capacidade analítica, gerenciamento de times e gestão de projetos.
 
   - 📚📽 Gosto de ler, seja um bom livro, de clássicos da literatura a quadrinhos, assim como assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/
 </details>
